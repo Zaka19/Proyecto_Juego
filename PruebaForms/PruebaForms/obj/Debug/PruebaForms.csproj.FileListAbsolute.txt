@@ -1,0 +1,10 @@
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\bin\Debug\PruebaForms.exe.config
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\bin\Debug\PruebaForms.exe
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\bin\Debug\PruebaForms.pdb
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.EF_Users.resources
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.Properties.Resources.resources
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.csproj.GenerateResource.cache
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.exe
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Debug\PruebaForms.pdb

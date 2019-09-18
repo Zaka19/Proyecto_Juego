@@ -1,0 +1,10 @@
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\bin\Release\PruebaForms.exe.config
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\bin\Release\PruebaForms.exe
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\bin\Release\PruebaForms.pdb
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.csprojAssemblyReference.cache
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.EF_Users.resources
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.Properties.Resources.resources
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.csproj.GenerateResource.cache
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.csproj.CoreCompileInputs.cache
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.exe
+C:\Users\zzbakh\source\repos\PruebaForms\PruebaForms\obj\Release\PruebaForms.pdb
